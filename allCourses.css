@@ -1,0 +1,58 @@
+/* all courses page css by Nabil start  */
+.directory.course #buddypress .item-list-tabs ul li a {
+    color: #666 !important;
+}
+
+.directory.course #buddypress a.create-group-button {
+    background: transparent !important;
+}
+
+.directory.course #buddypress a.create-group-button:hover {
+    background: #4c7fbf !important;
+}
+
+.directory.course #buddypress .course_cat_nav ul li a {
+    background: #fff;
+    color: #666 !important;
+}
+
+.directory.course #buddypress .course_cat_nav ul li a span {
+    color: #fff !important;
+    background: #4c7fbf !important;
+    border-color: #4c7fbf !important;
+}
+
+.directory.course #buddypress .course_cat_nav ul li.current-cat a {
+    background: #4c7fbf !important;
+    border-color: #4c7fbf !important;
+    color: #fff !important;
+}
+
+.directory.course #buddypress div.item-list-tabs#subnav ul li.switch_view a#grid_view.active,
+.directory.course #buddypress div.item-list-tabs#subnav ul li.switch_view a.active {
+    background: #4c7fbf !important;
+    border-color: #4c7fbf !important;
+}
+
+.directory.course #buddypress .new-all-course-price-btns .btn-div a,
+.directory.course #buddypress .page-numbers {
+    border-color: #4c7fbf !important;
+}
+
+.directory.course #buddypress .item-list.grid .new-all-course-price-btns .btn-div a,
+.directory.course #buddypress .page-numbers:hover {
+    background: #4c7fbf !important;
+}
+
+.directory.course #buddypress .button.add-to-cart-btn,
+.directory.course #buddypress .page-numbers.current {
+    background: #4c7fbf !important;
+    border-color: #4c7fbf !important;
+}
+
+.directory.course #buddypress .page-numbers.current,
+.directory.course #buddypress .page-numbers:hover {
+    color: #fff !important;
+}
+
+/* all courses page css by Nabil end  */
